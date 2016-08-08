@@ -1,0 +1,42 @@
+_repo: The-History-of-University-Education-in-Maryland--13-The-Johns-Hopkins-University--1876-1891-.__12138
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Gilman, Daniel Coit
+    birthdate: 1831
+    deathdate: 1908
+    gutenberg_agent_id: '40145'
+    url: http://www.gutenberg.org/2009/agents/40145
+  - agent_name: Moulton, Richard G. (Richard Green)
+    alias: Moulton, R. G. (Richard Green)
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '8749'
+    url: http://www.gutenberg.org/2009/agents/8749
+creator:
+  author:
+    agent_name: Steiner, Bernard C. (Bernard Christian)
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4238'
+    url: http://www.gutenberg.org/2009/agents/4238
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Christian_Steiner
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Johns Hopkins University -- History'
+- !lcc 'LD'
+- !lcsh 'Universities and colleges -- Maryland -- History'
+- GITenberg
+title: "The History of University Education in Maryland\r\nThe Johns Hopkins University\
+  \ (1876-1891). With supplementary notes on university extension and the university\
+  \ of the future"
+url: http://www.gutenberg.org/ebooks/12138
