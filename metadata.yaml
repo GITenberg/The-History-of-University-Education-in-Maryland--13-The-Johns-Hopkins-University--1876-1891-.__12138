@@ -1,5 +1,5 @@
 _repo: The-History-of-University-Education-in-Maryland--13-The-Johns-Hopkins-University--1876-1891-.__12138
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Gilman, Daniel Coit
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '8749'
     url: http://www.gutenberg.org/2009/agents/8749
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steiner, Bernard C. (Bernard Christian)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4238
     wikipedia: http://en.wikipedia.org/wiki/Bernard_Christian_Steiner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12138#The-History-of-University-Education-in-Maryland--13-The-Johns-Hopkins-University--1876-1891-._
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
